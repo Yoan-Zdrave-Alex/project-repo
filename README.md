@@ -18,7 +18,6 @@ here are the project details
 
 
 ## build documentation
-Here's a basic README file template for a simple Python calculator project. This document will explain the purpose, setup instructions, and usage details for the calculator.
 
 ---
 
@@ -42,7 +41,7 @@ A simple calculator built in Python that supports basic operations like addition
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-python-calculator.git
+   git clone [https://github.com/yourusername/simple-python-calculator.git](https://github.com/Yoan-Zdrave-Alex/project-repo)
    cd simple-python-calculator
    ```
 
